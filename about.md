@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### About arkloud
 
-A place to include any other types of information that you'd like to include about yourself.
+We are a newly established company based in Shanghai and focusing on providing business
+solutions on cloud, mainly Salesforce.com
+
+
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[support@arkloud.com](mailto:charles.chen@arkloud.com)
